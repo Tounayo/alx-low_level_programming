@@ -3,7 +3,6 @@
 
 
 /**
-
  * main - Prints the size of various types based on
 
  *        the computer it is compiled and run on..
@@ -14,8 +13,7 @@
 
  */
 
-int main(void)
-  
+int main(void)  
 {
   
   printf("Size of a char: %zu byte(s)\n", sizeof(char));
