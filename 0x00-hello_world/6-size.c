@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-
  * main - Prints sized of characters
 
  *
@@ -12,8 +11,7 @@
 
 int main(void)
   
-{
-  
+{  
   printf("Size of a char: %zu byte(s)\n", sizeof(char));
   
   printf("Size of an int: %zu byte(s)\n", sizeof(int));
@@ -24,6 +22,5 @@ int main(void)
   
   printf("Size of a float: %zu byte(s)\n", sizeof(float));
   
-  return (0);
-  
+  return (0); 
 }
