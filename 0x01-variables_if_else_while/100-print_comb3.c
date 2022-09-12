@@ -23,10 +23,10 @@ if (i < 89)
 {
 putchar(44);
 putchar(32);
-}  
+}
 }
 i++;
 }
 putchar('\n');
- return (0);
+return (0);
 }
