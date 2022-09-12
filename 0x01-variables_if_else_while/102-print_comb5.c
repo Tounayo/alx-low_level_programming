@@ -6,9 +6,9 @@
  * main - Entry point
  * Return: Always 0 (Success)
  */
-int main(void)  
-{  
-int i, j;  
+int main(void)
+{
+int i, j;
 int a, b, c, d;
 for (i = 0; i < 100; i++)
 {
@@ -20,7 +20,7 @@ c = j / 10; /* doubles snum */
 d = j % 10; /* singles snum */
 if (a < c || (a == c && b < d))
 {
-putchar(a + '0');     
+putchar(a + '0');
 putchar(b + '0');
 putchar(32);
 putchar(c + '0');
