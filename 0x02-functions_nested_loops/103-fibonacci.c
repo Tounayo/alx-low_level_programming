@@ -17,6 +17,6 @@ k = j;
 j += i;
 i = k;
 }
-printf("%d\n", total);  
-return (0); 
+printf("%d\n", total);
+return (0);
 }
