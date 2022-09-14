@@ -14,7 +14,7 @@ return (1);
 else if (n < 0)
 {
 _putchar('_');
-retuen (-1);
+return (-1);
 }
 else
 {
