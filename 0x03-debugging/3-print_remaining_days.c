@@ -31,4 +31,3 @@ print("Day of the year: %d\n", day);
 printf("Remanining days: %d\n", 365 - day);
 }
 }
-}
