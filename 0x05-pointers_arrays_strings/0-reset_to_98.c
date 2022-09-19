@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - It resetsvalue to 98
  * @n: checked
- * Return: nothing     
+ * Return: nothing
  */
 void reset_to_98(int *n)
 {
